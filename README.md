@@ -1,4 +1,4 @@
-# Kali based Reverse Engineering setup scripts
+# Kali based Reverse Engineering Environment setup scripts
 
 Nothing special, just a bash script to up an virtual machine they I need it. While I put some continuation checks in to the script, I do not gaurantee that it is idempotent. I.e. if you run it more than once, be careful that it doesn't do something 'twice' that you don't want it to - like append text to a network file.
 
